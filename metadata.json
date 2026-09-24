@@ -1,0 +1,7 @@
+{
+  "name": "Lançamentos de Alto Padrão São Paulo",
+  "description": "Lançamentos imobiliários exclusivos de alto padrão em São Paulo: Mooca, Tatuapé e Vila Ema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
